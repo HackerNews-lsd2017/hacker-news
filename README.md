@@ -13,7 +13,9 @@
 ## Use Case Model
 ![alt text](https://github.com/HackerNews-lsd2017/hacker-news/blob/master/screenshots/Screen%20Shot%202017-10-24%20at%2023.11.21.png)
 
+---
 #### Use Case: Log in
+---
 CHARACTERISTIC INFORMATION
 Goal in Context: Registered User makes an authentication request and expects to log, in order to use full functionality of the system 
 
@@ -44,7 +46,10 @@ Brief description:
 
 Users puts his username and password and expects to get logged in.
 
+---
 #### Use Case: Register
+---
+
 CHARACTERISTIC INFORMATION
 
 Goal in Context: User makes an account creation request and expects to that account is created
@@ -76,7 +81,9 @@ Brief description:
 
 Guest provides information necessary to create an account and expects that application is going to create his account.
 
+---
 #### Use Case: View post
+---
 
 CHARACTERISTIC INFORMATION
 
@@ -110,7 +117,9 @@ Brief description:
 
 User/Guest makes a request to see a post and it is presented to him.
 
+---
 #### Use Case: Find post
+---
 
 CHARACTERISTIC INFORMATION
 
@@ -144,7 +153,9 @@ Brief description:
 
 User/Guest makes a request to see a post and it is presented to him.
 
+---
 #### Use Case: Comment post
+---
 
 CHARACTERISTIC INFORMATION
 
@@ -180,7 +191,9 @@ Extension: Report post
 
 User reports post that in his/her belief is violating some rules of the website.
 
+---
 #### Use Case: Update user
+---
 
 CHARACTERISTIC INFORMATION
 
@@ -212,7 +225,9 @@ Brief description:
 
 User sends updated information about his/her account which is persisted in database.
 
+---
 #### Use Case: Create Post
+---
 
 CHARACTERISTIC INFORMATION
 
@@ -245,7 +260,9 @@ Brief description:
 
 User creates post that is being published and persisted.
 
+---
 #### Use Case: Log out
+---
 
 CHARACTERISTIC INFORMATION
 
@@ -275,7 +292,9 @@ Brief description:
 
 User is pressing logout button and his session is being deleted.
 
+---
 #### Use Case: Vote Post
+---
 
 CHARACTERISTIC INFORMATION
 
