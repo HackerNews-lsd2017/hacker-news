@@ -1,10 +1,13 @@
 # Home repo for a school assignment
 
-# Child repos
+# Subsystems
 * front end: [fe-hacker-news](https://github.com/HackerNews-lsd2017/fe-hacker-news)
 * back end: [be-hacker-news](https://github.com/HackerNews-lsd2017/be-hacker-news)
 
 # Assignment #6 - KNA Toolbox
+- [link to the assignment](https://github.com/datsoftlyngby/soft2017fall-lsd-teaching-material/blob/master/assignments/06-Assignment.pdf)
+- [link to the lecture notes](https://github.com/datsoftlyngby/soft2017fall-lsd-teaching-material/blob/master/lecture_notes/11-FKA%20Toolbox/FKA%20Toolbox.pdf)
+
 ## Large System Development
 
 ## Logical Data Model
@@ -15,8 +18,7 @@
 
 ---
 #### Use Case: Log in
----
-CHARACTERISTIC INFORMATION
+--- CHARACTERISTIC INFORMATION
 Goal in Context: Registered User makes an authentication request and expects to log, in order to use full functionality of the system 
 
 Scope: System under design
