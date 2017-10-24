@@ -1,9 +1,18 @@
-# Home repo for a school assignment
+# Hacker News Clone
 
 # Subsystems
 * front end: [fe-hacker-news](https://github.com/HackerNews-lsd2017/fe-hacker-news)
 * back end: [be-hacker-news](https://github.com/HackerNews-lsd2017/be-hacker-news)
 
+# Collaborators (participants)
+- Adam Lewandowski 🇵🇱 (25%)*
+- Lukasz Koziarski 🇵🇱 (25%)*
+- Teodor Mihail 🇷🇴 (25%)*
+- William Bech 🇫🇷/🇩🇰 (25%)*
+
+ \*  Order is alphabetical by name. We're all working equally hard so each of us holds credit of 25% for the whole project but we're all giving our 100%!
+
+-----
 # Assignment #6 - KNA Toolbox
 - [link to the assignment](https://github.com/datsoftlyngby/soft2017fall-lsd-teaching-material/blob/master/assignments/06-Assignment.pdf)
 - [link to the lecture notes](https://github.com/datsoftlyngby/soft2017fall-lsd-teaching-material/blob/master/lecture_notes/11-FKA%20Toolbox/FKA%20Toolbox.pdf)
