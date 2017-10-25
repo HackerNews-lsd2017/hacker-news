@@ -337,5 +337,10 @@ MAIN SUCCESS SCENARIO
 Brief description:
 
 Users upvotes/downvotes comment or post and his action is included in karma deduction.
+
+## Subsystem sequence diagram
+![alt text](https://github.com/HackerNews-lsd2017/hacker-news/blob/master/screenshots/Screen%20Shot%202017-10-25%20at%2018.43.06.png)
+
  
-Description of actors and responsabilities.
+Description of actors and responsabilities:
+
