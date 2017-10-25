@@ -343,4 +343,5 @@ Users upvotes/downvotes comment or post and his action is included in karma dedu
 
  
 Description of actors and responsabilities:
+- User: makes decisions to post, view, comment and generally interacts with the system
 
