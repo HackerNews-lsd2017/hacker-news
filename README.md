@@ -248,7 +248,7 @@ Scope: System under design
 
 Level: Sea
 
-Preconditions: User has an account.
+Preconditions: User is logged in.
 
 Success End Condition: Post is created and persisted.
 
@@ -343,7 +343,7 @@ Users upvotes/downvotes comment or post and his action is included in karma dedu
 
  
 Description of actors and responsabilities:
-- User: makes decisions to post, view, comment and generally interacts with the system, does not submit forbbidden words
+- User: makes decisions to post, view, comment and generally interacts with the system, obey the site guidelines
 - System: has to be up and running all the time, store, process and display content, register users, be publicly available
 - Unregistered user: has no responsability
 
