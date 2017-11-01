@@ -1,5 +1,8 @@
 # Hacker News Clone
 
+Whole documentation is available on wiki page. Please follow below link to access it:
+https://github.com/HackerNews-lsd2017/hacker-news/wiki
+
 # Subsystems
 * front end: [fe-hacker-news](https://github.com/HackerNews-lsd2017/fe-hacker-news)
 * back end: [be-hacker-news](https://github.com/HackerNews-lsd2017/be-hacker-news)
